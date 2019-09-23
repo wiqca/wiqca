@@ -3,4 +3,5 @@ layout: misc
 title: Contact
 ---
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Millennial%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/Millennial/issues/new).
+If you are have any questions or suggestions, feel free to [tweet at us](https://twitter.com/wiqca), hop on our [slack](https://join.slack.com/t/wiqca/shared_invite/enQtNzU2NjQ2OTY1NTM4LWJkNTYzOTgyZDliNTU4ZDllYWIxNDQxOWVkYmRkZmVhY2FlMDRmZjQ0M2YwZjBlNDdkZjEwNDQxZDc0NmRiYzc) or [file a GitHub issue](https://github.com/wiqca/wiqca.github.io/issues/new).
+
