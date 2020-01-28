@@ -9,6 +9,7 @@ image: 20200127-kickoff.png
 
 The Women in Quantum Computing and Applications group is proud to announce its kickoff event!
 We are graciously hosted by the [Microsoft Reactor](https://developer.microsoft.com/en-us/reactor/Location/Redmond), who is also providing pizza 🍕.
+Everyone is welcome at WIQCA events 💖.
 
 - **WHAT:** WIQCA Kickoff Talk and Q & A with Dr. Sarah Kaiser
 - **WHEN:** 24 Feb 2020, 6:30 PM
