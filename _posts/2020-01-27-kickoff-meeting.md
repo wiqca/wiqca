@@ -3,7 +3,7 @@ layout: post
 title: "WIQCA Kickoff"
 author: "WIQCA"
 categories: facts
-tags: [event]
+tags: [events]
 image: 20200127-kickoff.png
 ---
 
