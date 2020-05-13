@@ -17,5 +17,5 @@ We will be hosting this event online, and as always, everyone is welcome at WIQC
 
 - **WHAT:** Quantum 101: Do I need quantum RAM? with Olivia Di Matteo
 - **WHEN:** 13 May 2020, 5pm PDT 
-- **WHERE:** On Teams, join link will be here at the time of the meeting: https://bit.ly/quantum101-qRAM
+- **WHERE:** On Teams, join link will be here at the time of the meeting: [https://bit.ly/2zCX5Zu](https://bit.ly/2zCX5Zu)
 - **RSVP:** [Meetup](https://www.meetup.com/wiqca-sea/events/270449533/)
