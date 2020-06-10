@@ -4,12 +4,12 @@ disqus:
   disqus_shortname: 'wiqca-seattle'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-ID: ''
+google-ID: 'UA-169034535-1'
 
 menu:
 - {name: 'About', folder: 'pages', file: 'about.html'}
 - {name: 'Events', folder: 'pages', file: 'events.html'}
-- {name: 'Learning Resources', folder: 'pages', file: 'resources.html'}
+#- {name: 'Learning Resources', folder: 'pages', file: 'resources.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer

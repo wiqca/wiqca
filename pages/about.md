@@ -3,7 +3,7 @@ layout: misc
 title: About
 ---
 
-Hi there!🔮🎉 
+Hi there! 🔮🎉
 
 This group is for folks who are interested in and excited about quantum computing in Seattle, WA.
 We have meet-ups about once a month where we have speakers, hands-on tutorials, and open-source docs sprints.
