@@ -4,7 +4,7 @@ title: "Quantum 101: The many worlds of Schrödinger's cat"
 author: "WIQCA"
 categories: events
 tags: [events, quantum-101]
-image: quantum101-superposition-game.png
+image: quantum101-game-title.png
 ---
 > This is part of the Quantum 101 talk series, featuring speakers giving inclusive introductions to quantum computing and related topics.
 
@@ -17,6 +17,6 @@ We will be hosting this event online, and as always, everyone is welcome at WIQC
 - **WHAT:** Quantum 101: The many worlds of Schrödinger's cat with Sarah Marshall
 - **WHEN:** 30 July 2020, 5pm PDT
 - **WHERE:** On Teams, join link will be here at the time of the meeting: [https://bit.ly/quantum101-games](https://bit.ly/quantum101-games)
-- **RSVP:** [Meetup](https://www.meetup.com/wiqca-sea/events/270449533/)
+- **RSVP:** [Meetup](https://www.meetup.com/wiqca-sea/events/272094484/)
 
 ----
