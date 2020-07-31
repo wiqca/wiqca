@@ -8,6 +8,9 @@ image: quantum101-game-title.png
 ---
 > This is part of the Quantum 101 talk series, featuring speakers giving inclusive introductions to quantum computing and related topics.
 
+### ✨Thanks to everyone for joining!✨
+#### _You can find [Sarah's slides on her website](https://www.sarahmarshall.name/superposition-wiqca/) and the [recording on YouTube](https://www.youtube.com/watch?v=jVwEnOgMP8s)_ !
+
 In this installment of the Quantum 101 series, [Sarah Marshall](https://www.sarahmarshall.name/) from [Microsoft Quantum](https://www.microsoft.com/en-us/quantum) will be talking about _quantum games_.
 
 Games are a great way to learn new concepts and ideas, and quantum physics is no exception. In this session, Sarah will share with us a project she has been working on called [Superposition](https://github.com/samarsha/Superposition), a game that teaches its players quantum mechanics. We will learn the game mechanics, and Sarah will show us how the internals of the game were designed and coded. And of course there will be a live demo too!  
