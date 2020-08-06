@@ -15,7 +15,9 @@ menu:
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'twitter', link: 'https://twitter.com/wiqca'}
-#- {icon: 'facebook', link: 'https://www.facebook.com/Le.Paul.94'}
+- {icon: 'slack', link: 'https://join.slack.com/t/wiqca/shared_invite/enQtNzU2NjQ2OTY1NTM4LWJkNTYzOTgyZDliNTU4ZDllYWIxNDQxOWVkYmRkZmVhY2FlMDRmZjQ0M2YwZjBlNDdkZjEwNDQxZDc0NmRiYzc'}
+- {icon: 'youtube', link: 'https://www.youtube.com/channel/UCsT10UhbDFDT0C0n-YZIxmw'}
+- {icon: 'meetup', link: 'https://www.meetup.com/wiqca-sea/'}
 #- {icon: 'instagram', link: 'https://instagram.com/wiqca'}
 - {icon: 'envelope', link: 'mailto:info@wiqca.dev'}
 #- {icon: 'rss-square', link: 'feed.xml'}
