@@ -12,6 +12,6 @@ You can find our code of conduct that governs all of our events [here]({{ site.g
 
 Are you interested in giving a talk at a WIQCA event?
 We are always looking for speakers who can help this awesome community learn and grow their skills!
-Check out our resources for speakers, and the talk submission form here: [here]({{ site.github.url }}/speakers.html).
+Check out our resources for speakers, and the talk submission form [here]({{ site.github.url }}/speakers.html).
 
 For more information on what we do and upcoming events, check out [the events page]({{ site.github.url }}/pages/events.html) or our [Meetup page](https://www.meetup.com/wiqca-sea/).
