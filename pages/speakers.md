@@ -22,7 +22,7 @@ Help us make this an inclusive event by familiarizing yourself with the Code of 
 
 ## How can I submit or request a talk?
 
-Fill out [this google form](https://forms.gle/niooKFdZTXWhF7Yr6)!
+Fill out [this Google form](https://forms.gle/niooKFdZTXWhF7Yr6)!
 
 Submissions will be reviewed ASAP, and if accepted the submitter will be contacted to confirm the date and time for the talk.
 If you have any questions about your submission, please send us an email at [speakers@wiqca.dev](mailto:speakers@wiqca.dev).
