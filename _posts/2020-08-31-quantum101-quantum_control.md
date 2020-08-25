@@ -6,7 +6,7 @@ categories: events
 tags: [events, quantum-101]
 image: quantum101-hwcontrol.png
 redirect_from:
-  - /quantum101-hwcontrol
+  - /q101-hwctrl
 ---
 > This is part of the Quantum 101 talk series, featuring speakers giving inclusive introductions to quantum computing and related topics.
 
