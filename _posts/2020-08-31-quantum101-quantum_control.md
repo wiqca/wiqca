@@ -19,6 +19,6 @@ We will be hosting this event online with some networking opportunities starting
 - **WHAT:** Quantum 101: Quantum Hardware Control with Guen Prawiroatmodjo
 - **WHEN:** 31 August 2020, 5pm PDT
 - **WHERE:** On Teams, join link will be here at the time of the meeting: [http://bit.ly/quantum101-hwcontrol](http://bit.ly/quantum101-hwcontrol)
-- **RSVP:** [Meetup](https://www.meetup.com/wiqca-sea/events/272791182/)
+- **RSVP:** [Meetup](https://www.meetup.com/wiqca-sea/events/272814133/)
 
 ----
