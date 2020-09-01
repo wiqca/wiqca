@@ -8,6 +8,10 @@ image: quantum101-hwcontrol.png
 redirect_from:
   - /q101-hwctrl
 ---
+
+### ✨Thanks to everyone for joining!✨
+#### _You can find [Guen's slides here](wiqca2020.guen.pw)!_
+
 > This is part of the Quantum 101 talk series, featuring speakers giving inclusive introductions to quantum computing and related topics.
 
 In this installment of the Quantum 101 series, Guen Prawiroatmodjo from [Microsoft Quantum](https://www.microsoft.com/en-us/quantum) will be talking about _quantum hardware control_.
