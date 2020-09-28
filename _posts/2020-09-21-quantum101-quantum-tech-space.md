@@ -9,6 +9,9 @@ redirect_from:
   - /q101-qkd
 ---
 
+### ✨Thanks to everyone for joining!✨
+#### _You can find the [recording on YouTube](https://youtu.be/5sFYQwAftT4)_ !
+
 > This is part of the Quantum 101 talk series, featuring speakers giving inclusive introductions to quantum computing and related topics.
 
 In this installment of the Quantum 101 series, Sonali Mohapatra (@sonalysmic) will be talking about _quantum technologies in space_. In this talk, Sonali will describe the necessity to move to quantum encryption and the use of space as an enabler for obtaining a global QKD network. She will showcase advancements made in that sector and discuss various missions and challenges ahead.
